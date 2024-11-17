@@ -12,4 +12,4 @@ If you find Dream-in-style useful for your work please cite:
 }
 ```
 
-# Website borrowed from [Nerfies](https://nerfies.github.io/)
+Website borrowed from [Nerfies](https://nerfies.github.io/)
