@@ -8,7 +8,6 @@ If you find Dream-in-style useful for your work please cite:
     author    = {Hubert Kompanowski and Binh-Son Hua},
     title     = {Dream-in-Style: Text-to-3D Generation using Stylized Score Distillation},
     booktitle = {International Conference on 3D Vision},
-    journal   = {3DV},
     year      = {2025},
 }
 ```
