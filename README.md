@@ -1,4 +1,4 @@
-# Nerfies
+# Dream-in-Style
 
 This is the repository that contains source code for the [Dream-in-Style website](https://dream-in-style.github.io/).
 
